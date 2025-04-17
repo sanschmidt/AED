@@ -1,5 +1,15 @@
-Apple clang version 17.0.0 (clang-1700.0.13.3)
+• Algoritmos y Estructuras de Datos 
+• Curso. K1053
+• Año 2025
+• Legajo. 211.504-9
+• Apellido. Schmidt
+• Nombre. Santiago
+
+Espacio de trabajo: 
+Visual Studio Code (IDE)
+
+Apple clang version 17.0.0 (clang-1700.0.13.3) [compilador]
 Target: arm64-apple-darwin24.4.0
 Thread model: posix
 
- C++23
+ C++23 [version de C++ compatible con compilador]
